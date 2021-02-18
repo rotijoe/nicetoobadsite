@@ -1,3 +1,28 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+body {
+    padding: 3vw;
+}
+
 h1 {
-    color: red;
+    color: blue;
+    font-size: x-large;
+    font-family: Helvetica, sans-serif;
+    font-weight: 100;
+
+    & a {
+        color: rgb(0, 207, 0);
+        text-decoration: none;
+
+        &:hover {
+            color: blue;
+            text-decoration: underline;
+        }
+    }
 }
