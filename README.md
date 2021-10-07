@@ -1,8 +1,8 @@
-# Placeholder website for Nice, too bad
+# Placeholder website for personal website
 A fun website created as part of an application process, that will eventually hold my freelance web development work.
 
 # Tech
-**HTML + <canvas>, SCSS, Vanilla Javascript**
+**HTML + canvas, SCSS, Vanilla Javascript**
 
 # Future Work
 - Canvas: Make the Canvas element more responsive (smaller particles)
